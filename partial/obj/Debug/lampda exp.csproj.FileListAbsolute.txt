@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\partial\partial\obj\Debug\lampda exp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\partial\partial\obj\Debug\lampda exp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\partial\partial\obj\Debug\partial.exe
+C:\Users\Lenovo\source\repos\partial\partial\obj\Debug\partial.pdb
+C:\Users\Lenovo\source\repos\partial\partial\bin\Debug\partial.exe.config
+C:\Users\Lenovo\source\repos\partial\partial\bin\Debug\partial.exe
+C:\Users\Lenovo\source\repos\partial\partial\bin\Debug\partial.pdb
